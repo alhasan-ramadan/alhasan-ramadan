@@ -1,42 +1,20 @@
-![Profile Banner](/dark-banner-linkedIn.jpg)
-# ⚙️ What Tools i used:
-<div style="display: flex; flex-direction: row; gap: 20px;">
-<a href="https://daringfireball.net/projects/markdown/" target="_blank">
-  <img align="left" alt="Markdown" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
-</a>
-<a href="https://www.json.org/json-en.html" target="_blank">
-  <img align="left" alt="JSON" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
-</a>
-<a href="https://godotengine.org/" target="_blank">
-  <img align="left" alt="Godot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
-</a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-  <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-</a>
-<a href="https://git-scm.com/" target="_blank">
-  <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-</a>
-<a href="https://about.gitlab.com/" target="_blank">
-  <img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
-</a>
-<a href="https://www.microsoft.com/en-us/windows/" target="_blank">
-  <img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
-</a>
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-</a>
-<a href="https://www.latex-project.org/" target="_blank">
-  <img align="left" alt="Latex" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
-</a>
-<a href="https://moodle.uni-ulm.de/course/view.php?id=54123" target="_blank">
-  <img align="left" alt="Moodle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/moodle/moodle-original.svg" />
-</a>
-<a href="https://www.uml-diagrams.org/" target="_blank">
-  <img align="left" alt="UML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" />
-</a>
+![Profile Banner](dark-banner-linkedIn.jpg)
 
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=alhasan-ramadan&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight&bg_color=00000000&rank_icon=percentile" alt="Anurag's GitHub stats dark"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhasan-ramadan&langs_count=8&layout=compact&theme=tokyonight&bg_color=00000000" alt="Top Langs"/>
+  </a>
 </div>
-<br />
+
+
+
+# ⚙️ What Tools/Languages i use:
+
+[![My Skills](https://skillicons.dev/icons?i=figma,vscode,idea,godot,obsidian,blender,dotnet,docker,cloudflare,windows,linux,githubactions,github,gitlab,git,matlab,cs,html,css,java,latex,md,haskell)](https://skillicons.dev)
 
 # 🔭 I’m currently working on ...
 A group project in university
@@ -45,10 +23,12 @@ How clients, servers, and editors work
 # 👯 I’m looking to collaborate on ...
 Front-end development
 # 🤔 I’m looking for help with ...
-React
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 # 📫 How to reach me: 
-  - [LinkedIn](https://www.linkedin.com/in/alhasan-ramadan-75a390220/)
-  - [Instagram](https://www.instagram.com/0nlyhasan)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alhasan-ramadan-75a390220/)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/0nlyhasan)
+
 # ⚡ Fun fact: 
 HIMYM > Big Bang Theory
 
+<img src="https://media.giphy.com/media/lTY3NrsUR2KwOihvpA/giphy.gif" alt="GIF Title" width="250">
