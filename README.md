@@ -29,14 +29,14 @@ A group project in university
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-bb9af7?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
 </p>
-<p align="left">
-  <a href="https://github.com/alhasan-ramadan/starfighter-alliance">
-    <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alhasan-ramadan&repo=starfighter-alliance&hide_border=false&bg_color=1F222E&title_color=bb9af7&icon_color=bb9af7&theme=tokyonight&show_icons=false" alt="Starfighter-Alliance">
-  </a>
-  <a href="https://github.com/alhasan-ramadan/godot-calculator">
-    <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alhasan-ramadan&repo=godot-calculator&theme=tokyonight&bg_color=1F222E&title_color=bb9af7&icon_color=bb9af7&hide_border=false&show_icons=false" alt="Godot-Calculator">
-  </a>
-</p>
+
+<a href="https://github.com/alhasan-ramadan/starfighter-alliance">
+  <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alhasan-ramadan&repo=starfighter-alliance&hide_border=false&bg_color=1F222E&title_color=bb9af7&icon_color=bb9af7&theme=tokyonight&show_icons=false" alt="Starfighter-Alliance">
+</a>
+<a href="https://github.com/alhasan-ramadan/godot-calculator">
+  <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alhasan-ramadan&repo=godot-calculator&theme=tokyonight&bg_color=1F222E&title_color=bb9af7&icon_color=bb9af7&hide_border=false&show_icons=false" alt="Godot-Calculator">
+</a>
+
 
 </p>
 
