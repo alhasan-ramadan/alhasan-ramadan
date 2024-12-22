@@ -1,8 +1,7 @@
 <div style="background-color:#1a1b26; color:#c0caf5; padding:10px; border-radius:5px;">
 <div align=center>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tangerine&weight=100&pause=1000&color=56D6C2&center=true&vCenter=true&multiline=true&width=435&height=65&lines=Hi+there!+I+am+Alhasan+Ramadan;Welcome+to+my+GitHub+%3A)](https://git.io/typing-svg)
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tangerine&size=40&pause=300&color=56D6C2&center=true&vCenter=true&multiline=true&width=435&height=125&lines=Hi+there!+I+am+Alhasan+Ramadan;Welcome+to+my+GitHub%3A)](https://git.io/typing-svg)</div>
 <div align=center>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=alhasan-ramadan.906008051)
