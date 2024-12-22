@@ -1,6 +1,12 @@
 <div style="background-color:#1a1b26; color:#c0caf5; padding:10px; border-radius:5px;">
+<div align=center>
 
-![Profile Banner](assets/dark-banner-linkedIn.jpg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tangerine&weight=100&pause=1000&color=56D6C2&center=true&vCenter=true&multiline=true&width=435&height=65&lines=Hi+there!+I+am+Alhasan+Ramadan;Welcome+to+my+GitHub+%3A)](https://git.io/typing-svg)
+</div>
+<div align=center>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=alhasan-ramadan.906008051)
+</div>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -13,6 +19,7 @@
 
 
 # <p style="color:#7aa2f7;">⚙️ What Tools/Languages i use:</p>
+
 [![My Skills](https://skillicons.dev/icons?i=figma,vscode,idea,godot,obsidian,blender,dotnet,docker,cloudflare,windows,linux,githubactions,github,gitlab,git,matlab,cs,html,css,java,latex,md,haskell)](https://skillicons.dev)
 
 
@@ -67,7 +74,9 @@ HIMYM > Big Bang Theory
 # <p style="color:#7aa2f7;">🏆 Trophies</p>
 ![](https://github-profile-trophy.vercel.app/?username=alhasan-ramadan&theme=tokyonight&no-frame=false&no-bg=true&bg_color=00000000&margin-w=4)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=alhasan-ramadan&theme=tokyonight&hide_border=false&bg_color=00000000)<br/>
+<div align=center>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=alhasan-ramadan&theme=tokyonight&hide_border=false&bg_color=00000000)<br/>
+</div>
 </div>
 
