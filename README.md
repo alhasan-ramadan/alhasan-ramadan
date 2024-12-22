@@ -9,9 +9,7 @@
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=alhasan-ramadan&show_icons=true&theme=tokyonight&bg_color=00000000&rank_icon=percentile" alt="Anurag's GitHub stats dark" style="height: 200px; width: auto;"/>
-  </a>
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&preferLogin=true&Background=00000000&Ring=56D6C2">    <img  alt="alhasan-ramadan's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/alhasan-ramadan?cardType=level&theme=tokyonight&preferLogin=true&Background=00000000&Ring=56D6C2" />  </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhasan-ramadan&langs_count=8&layout=compact&theme=tokyonight&bg_color=00000000" alt="Top Langs" style="height: 200px; width: auto;"/>
   </a>
