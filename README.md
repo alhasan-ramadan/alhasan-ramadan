@@ -22,7 +22,7 @@
 
 # <p style="color:#7aa2f7;">🔭 I’m currently working on ...</p>
 <p style="color:#56D6C2;">
-A group project in university
+A game group project in university
 <p align="left">
   <a href="https://github.com/alhasan-ramadan?tab=repositories&sort=stargazers">
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-bb9af7?style=for-the-badge&logoColor=white&logo=repo"/>
