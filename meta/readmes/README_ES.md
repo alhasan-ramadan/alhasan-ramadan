@@ -1,15 +1,15 @@
 <div style="background-color:#1a1b26; color:#c0caf5; padding:10px; border-radius:5px;">
 <div align=center>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tangerine&size=40&pause=300&color=56D6C2&center=true&vCenter=true&multiline=true&width=435&height=125&lines=Hi+there!+I+am+Alhasan+Ramadan;Welcome+to+my+GitHub%3A)](https://git.io/typing-svg)</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tangerine&size=40&pause=300&color=56D6C2&center=true&vCenter=true&multiline=true&width=435&height=125&lines=Hola!+Soy+Alhasan+Ramadan;+Bienvenido+a+mi+GitHub%3A)](https://git.io/typing-svg)</div>
 <div align=center>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=alhasan-ramadan.906008051)
 </div>
 
 <p align="center">
-  <a href="/meta/readmes/README_DE.md">Deutsch</a> | 
-  <a href="/meta/readmes/README_ES.md">Español</a>
+  <a href="README_DE.md">Deutsch</a> | 
+  <a href="../../README.md">English</a>
 </p>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
@@ -20,14 +20,14 @@
 </div>
 
 
-# <p style="color:#7aa2f7;">⚙️ What Tools/Languages i use:</p>
+# <p style="color:#7aa2f7;">⚙️ Qué herramientas/lenguajes utilizo:</p>
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,godot,obsidian,figma,blender,dotnet,docker,cloudflare,windows,linux,githubactions,github,gitlab,git,matlab,cs,html,css,java,latex,md,haskell)](https://skillicons.dev)
 
 
-# <p style="color:#7aa2f7;">🔭 I’m currently working on ...</p>
+# <p style="color:#7aa2f7;">🔭 Actualmente estoy trabajando en ...</p>
 <p style="color:#56D6C2;">
-A game group project in university
+Un proyecto de juego en grupo en la universidad
 <p align="left">
   <a href="https://github.com/alhasan-ramadan?tab=repositories&sort=stargazers">
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-bb9af7?style=for-the-badge&logoColor=white&logo=repo"/>
@@ -45,37 +45,37 @@ A game group project in university
 </p>
 
 
-# <p style="color:#7aa2f7;">🌱 I’m currently learning ...</p>
+# <p style="color:#7aa2f7;">🌱 Actualmente estoy aprendiendo ...</p>
 <p style="color:#56D6C2;">
-How clients, servers, and editors work
+Cómo funcionan los clientes, servidores y editores
 </p>
 
 
-# <p style="color:#7aa2f7;">👯 I’m looking to collaborate on ...</p>
+# <p style="color:#7aa2f7;">👯 Busco colaborar en ...</p>
 <p style="color:#56D6C2;">
-Front-end development
+Desarrollo front-end
 </p>
 
 
-# <p style="color:#7aa2f7;">🤔 I’m looking for help with ...</p>
+# <p style="color:#7aa2f7;">🤔 Busco ayuda con ...</p>
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
 
-# <p style="color:#7aa2f7;">📫 How to reach me:</p>
-Click here!
+# <p style="color:#7aa2f7;">📫 Cómo ponerse en contacto conmigo:</p>
+Haga clic aquí!
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alhasan-ramadan-75a390220/)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/0nlyhasan)
 
 
-# <p style="color:#7aa2f7;">⚡ Fun fact:</p>
+# <p style="color:#7aa2f7;">⚡ Dato curioso:</p>
 <p style="color:#56D6C2;">
 HIMYM > Big Bang Theory
 </p>
 <img src="https://media.giphy.com/media/lTY3NrsUR2KwOihvpA/giphy.gif" alt="GIF Title" width="250">
 
 
-# <p style="color:#7aa2f7;">🏆 Trophies</p>
+# <p style="color:#7aa2f7;">🏆 Trofeos</p>
 ![](https://github-profile-trophy.vercel.app/?username=alhasan-ramadan&theme=tokyonight&no-frame=false&no-bg=true&bg_color=00000000&margin-w=4)
 
 <div align=center>
