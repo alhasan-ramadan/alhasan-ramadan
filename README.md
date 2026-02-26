@@ -26,7 +26,7 @@ You can check out my own Portfolio Website [here!](https://alhasan-ramadan.githu
 
 # <p style="color:#7aa2f7;">⚙️ What Tools/Languages i use:</p>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,godot,obsidian,figma,blender,dotnet,docker,cloudflare,windows,linux,githubactions,github,gitlab,git,matlab,cs,html,css,java,latex,md,haskell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,godot,unity,obsidian,figma,blender,dotnet,docker,cloudflare,windows,linux,githubactions,github,gitlab,git,matlab,cs,java,)](https://skillicons.dev)
 
 
 # <p style="color:#7aa2f7;">🔭 I’m currently working on ...</p>
