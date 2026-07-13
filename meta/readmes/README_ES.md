@@ -1,87 +1,76 @@
-<div style="background-color:#1a1b26; color:#c0caf5; padding:10px; border-radius:5px;">
-<div align=center>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tangerine&size=40&pause=300&color=56D6C2&center=true&vCenter=true&multiline=true&width=435&height=125&lines=Hola!+Soy+Alhasan+Ramadan;+Bienvenido+a+mi+GitHub%3A)](https://git.io/typing-svg)</div>
-<div align=center>
+# Hola, soy Alhasan Ramadan
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=alhasan-ramadan.906008051)
+**Digital Twin Developer @ Siemens Mobility · Unity/C# Engineer · Estudiante de B.Sc. Computer Science @ Ulm University**
+
+Construyo software de simulación donde los sistemas reales se conectan con flujos de trabajo de game engines: gemelos digitales, pipelines BIM/IFC, simulación de protocolos de cámara y herramientas para desarrollo.
+
+[![Website](https://img.shields.io/badge/Portfolio-alhasanramadan.com-56D6C2?style=for-the-badge&labelColor=1a1b26)](https://alhasanramadan.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alhasan%20Ramadan-7AA2F7?style=for-the-badge&labelColor=1a1b26)](https://www.linkedin.com/in/alhasan-ramadan/)
+[![Email](https://img.shields.io/badge/Email-contact%40alhasanramadan.com-BB9AF7?style=for-the-badge&labelColor=1a1b26)](mailto:contact@alhasanramadan.com)
+[![TikTok](https://img.shields.io/badge/TikTok-0nlyhasan-F7768E?style=for-the-badge&labelColor=1a1b26)](https://www.tiktok.com/@0nlyhasan)
+
+<a href="README_DE.md">Deutsch</a> · <a href="../../README.md">English</a>
+
 </div>
 
-<p align="center">
-  <a href="README_DE.md">Deutsch</a> | 
-  <a href="../../README.md">English</a>
-</p>
+---
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&preferLogin=true&Background=00000000&Ring=56D6C2">    <img  alt="alhasan-ramadan's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/alhasan-ramadan?cardType=level&theme=tokyonight&preferLogin=true&Background=00000000&Ring=56D6C2" />  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhasan-ramadan&langs_count=8&layout=compact&theme=tokyonight&bg_color=00000000" alt="Top Langs" style="height: 200px; width: auto;"/>
-  </a>
-</div>
+## En qué trabajo
 
+- **Gemelos digitales y simulación industrial** — workflows de simulación en Unity para sistemas reales.
+- **Automatización BIM/IFC** — herramientas que convierten datos de edificios en estructuras útiles para simulación.
+- **Simulación de protocolos de cámara** — ONVIF, RTSP, MediaMTX e integraciones tipo NVR/VMS.
+- **Arquitectura de juegos y herramientas** — proyectos Godot/Unity, escenas aditivas, herramientas CLI/UI y pipelines CI/CD.
+- **Workflows asistidos por LLMs** — transformar lenguaje natural en configuraciones estructuradas y herramientas prácticas.
 
-# <p style="color:#7aa2f7;">⚙️ Qué herramientas/lenguajes utilizo:</p>
+## Rol actual
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,godot,obsidian,figma,blender,dotnet,docker,cloudflare,windows,linux,githubactions,github,gitlab,git,matlab,cs,html,css,java,latex,md,haskell)](https://skillicons.dev)
+**Working Student — Digital Twin & System Integration Developer @ Siemens Mobility**<br>
+`Unity` · `C#` · `BIM/IFC` · `ONVIF` · `RTSP` · `GitLab CI/CD`
 
+Trabajo en sistemas de gemelos digitales basados en Unity, incluyendo tooling BIM-to-simulation, simulación de cámaras, workflows de deployment y arquitectura modular de escenas.
 
-# <p style="color:#7aa2f7;">🔭 Actualmente estoy trabajando en ...</p>
-<p style="color:#56D6C2;">
-Un proyecto de juego en grupo en la universidad
+## Proyectos seleccionados
+
+### [Battlefront Tactics](https://alhasanramadan.com/projects/battlefront-tactics/)
+Juego de estrategia universitario desarrollado en equipo con **Godot** y un proceso Scrum completo.<br>
+**Reconocimiento:** 1er lugar Software Engineering Award · 2º lugar AI Tournament.
+
+### [Starfighter Alliance](https://github.com/alhasan-ramadan/starfighter-alliance)
+Juego single-player endless flight desarrollado como proyecto universitario individual con **Godot/GDScript**.<br>
+**Reconocimiento:** 1er lugar Individual Software Project.
+
+### [Content Radar](https://alhasanramadan.com/projects/content-radar/)
+Build de 5 días sobre investigación de contenido y workflows de posicionamiento.
+
+### [Godot Calculator](https://github.com/alhasan-ramadan/godot-calculator)
+Pequeña app de calculadora en Godot 4.3 con varias variantes de UI.
+
+## Core stack
+
 <p align="left">
-  <a href="https://github.com/alhasan-ramadan?tab=repositories&sort=stargazers">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-bb9af7?style=for-the-badge&logoColor=white&logo=repo"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,godot,docker,git,gitlab,githubactions,linux,windows,visualstudio,vscode,figma,blender,latex" alt="Core stack" />
 </p>
 
-<a href="https://github.com/alhasan-ramadan/starfighter-alliance">
-  <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alhasan-ramadan&repo=starfighter-alliance&hide_border=false&bg_color=1F222E&title_color=bb9af7&icon_color=bb9af7&theme=tokyonight&show_icons=false" alt="Starfighter-Alliance">
-</a>
-<a href="https://github.com/alhasan-ramadan/godot-calculator">
-  <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alhasan-ramadan&repo=godot-calculator&theme=tokyonight&bg_color=1F222E&title_color=bb9af7&icon_color=bb9af7&hide_border=false&show_icons=false" alt="Godot-Calculator">
-</a>
+**Uso frecuente:** Unity, C#, .NET, Godot, BIM/IFC, ONVIF, RTSP, GitLab CI/CD, Docker, LaTeX, Postman, draw.io, Power Automate.
 
+## Más allá del código
 
-</p>
+También desarrollo **KarriereLab**, una iniciativa de contenido short-form que convierte información pública de empresas en insights útiles para estudiantes: análisis de empresas, derivación de skills y posicionamiento de proyectos.
 
+## GitHub snapshot
 
-# <p style="color:#7aa2f7;">🌱 Actualmente estoy aprendiendo ...</p>
-<p style="color:#56D6C2;">
-Cómo funcionan los clientes, servidores y editores
-</p>
-
-
-# <p style="color:#7aa2f7;">👯 Busco colaborar en ...</p>
-<p style="color:#56D6C2;">
-Desarrollo front-end
-</p>
-
-
-# <p style="color:#7aa2f7;">🤔 Busco ayuda con ...</p>
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-
-
-# <p style="color:#7aa2f7;">📫 Cómo ponerse en contacto conmigo:</p>
-Haga clic aquí!
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alhasan-ramadan-75a390220/)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/0nlyhasan)
-
-
-# <p style="color:#7aa2f7;">⚡ Dato curioso:</p>
-<p style="color:#56D6C2;">
-HIMYM > Big Bang Theory
-</p>
-<img src="https://media.giphy.com/media/lTY3NrsUR2KwOihvpA/giphy.gif" alt="GIF Title" width="250">
-
-
-# <p style="color:#7aa2f7;">🏆 Trofeos</p>
-![](https://github-profile-trophy.vercel.app/?username=alhasan-ramadan&theme=tokyonight&no-frame=false&no-bg=true&bg_color=00000000&margin-w=4)
-
-<div align=center>
-
-![Test](https://github-readme-streak-stats.herokuapp.com/?user=alhasan-ramadan&theme=tokyonight&hide_border=false&bg_color=00000000)
-<br/>
-</div>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alhasan-ramadan&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=false" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhasan-ramadan&langs_count=8&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=false" alt="Top languages" />
 </div>
 
+---
+
+<div align="center">
+
+**Construyendo sistemas prácticos, no solo demos.**
+
+</div>
